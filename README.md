@@ -1,6 +1,8 @@
 Typescript App on Heroku
 ========================
 
+Reference: [https://github.com/pbuda/heroku-typescript](https://github.com/pbuda/heroku-typescript)
+
 This is a simple Node.js + Express application written in Typescript
 that can be built and run on Heroku.
 
