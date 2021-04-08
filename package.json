@@ -1,5 +1,9 @@
 {
   "name": "heroku-typescript",
+  "engines": {
+    "node": "6.12.3",
+    "npm": "3.10.10"
+  },
   "scripts": {
     "ts:watch": "tsc -w",
     "ts:build": "tsc",
